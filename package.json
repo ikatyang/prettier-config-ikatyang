@@ -17,7 +17,7 @@
   },
   "license": "MIT",
   "scripts": {
-    "prepare": "yarn run build",
+    "prepublish": "yarn run build",
     "build": "rm -rf ./lib && tsc -p tsconfig.build.json",
     "format": "gulp format",
     "format-check": "gulp format-check",
