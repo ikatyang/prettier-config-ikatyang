@@ -3,5 +3,11 @@
   "depTypes": [{ "depType": "dependencies", "pinVersions": false }],
   "pinVersions": true,
   "rebaseStalePrs": true,
-  "semanticCommits": true
+  "semanticCommits": true,
+  "packages": [
+    {
+      "packageName": "prettier",
+      "automerge": "patch"
+    }
+  ]
 }
