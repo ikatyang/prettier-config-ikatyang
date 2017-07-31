@@ -4,7 +4,7 @@ node_js:
 - stable
 
 script:
-- yarn run format-check
+- yarn run lint
 
 cache:
   yarn: true

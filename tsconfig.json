@@ -5,5 +5,5 @@
     "module": "commonjs",
     "declaration": true
   },
-  "include": ["src/**/*.ts", "gulpfile.ts"]
+  "include": ["index.ts", "tslint.ts"]
 }

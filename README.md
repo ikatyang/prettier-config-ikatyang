@@ -19,17 +19,27 @@ yarn add --dev prettier-config-ikatyang
 
 ## Usage
 
-(prettier.config.js)
+- (prettier.config.js)
 
-```js
-module.exports = require('prettier-config-ikatyang');
-```
+  ```js
+  module.exports = require('prettier-config-ikatyang');
+  ```
+
+- (tslint.json)
+
+  ```json
+  {
+    "extends": "prettier-config-ikatyang/tslint"
+  }
+  ```
+
+  **NOTE**: need to install [tslint-plugin-prettier](https://github.com/ikatyang/tslint-plugin-prettier) simultaneously
 
 ## Development
 
 ```sh
-# format
-yarn run format
+# lint
+yarn run lint
 
 # build
 yarn run build
