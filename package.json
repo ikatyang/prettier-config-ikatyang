@@ -22,11 +22,9 @@
     "build": "tsc -p ./tsconfig.json",
     "release": "standard-version"
   },
-  "dependencies": {
-    "@types/prettier": "^1.5.0"
-  },
   "devDependencies": {
     "@types/node": "8.0.17",
+    "@types/prettier": "1.5.0",
     "prettier": "1.5.3",
     "standard-version": "4.2.0",
     "tslint": "5.5.0",
