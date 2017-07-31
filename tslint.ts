@@ -2,8 +2,8 @@ import * as tslint from 'tslint';
 import * as prettier_options from './index';
 
 const config: tslint.Configuration.RawConfigFile = {
-  extends: 'tslint-plugin-prettier',
   rules: {
+    // tslint-plugin-prettier
     prettier: [true, prettier_options],
   },
 };
