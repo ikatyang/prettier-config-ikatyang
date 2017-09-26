@@ -29,7 +29,7 @@
     "standard-version": "4.2.0",
     "tslint": "5.7.0",
     "tslint-plugin-prettier": "1.2.0",
-    "typescript": "2.5.2"
+    "typescript": "2.5.3"
   },
   "peerDependencies": {
     "prettier": "^1.0.0"
