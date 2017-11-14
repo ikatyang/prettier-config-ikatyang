@@ -23,7 +23,7 @@
     "release": "standard-version"
   },
   "devDependencies": {
-    "@types/node": "8.0.51",
+    "@types/node": "8.0.52",
     "@types/prettier": "1.8.0",
     "prettier": "1.7.4",
     "standard-version": "4.2.0",
