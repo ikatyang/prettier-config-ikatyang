@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@types/node": "8.0.54",
-    "@types/prettier": "1.8.0",
+    "@types/prettier": "1.8.1",
     "prettier": "1.7.4",
     "standard-version": "4.2.0",
     "tslint": "5.8.0",
