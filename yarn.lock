@@ -6,9 +6,9 @@
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/@types/babel-types/-/babel-types-7.0.1.tgz#1405e5396968c4302994b0161ce405b72b874257"
 
-"@types/node@8.10.13":
-  version "8.10.13"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.13.tgz#786153acbe3e8e0b844053e72c9d9f2db71c796a"
+"@types/node@8.10.14":
+  version "8.10.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.10.14.tgz#a24767cfa22023f1bf7e751c0ead56a14c07ed45"
 
 "@types/prettier@1.9.0":
   version "1.9.0"
