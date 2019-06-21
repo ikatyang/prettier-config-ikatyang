@@ -27,7 +27,7 @@
     "@types/prettier": "1.9.0",
     "prettier": "1.7.4",
     "standard-version": "4.4.0",
-    "tslint": "5.17.0",
+    "tslint": "5.18.0",
     "tslint-plugin-prettier": "2.0.1",
     "typescript": "2.9.2"
   },
