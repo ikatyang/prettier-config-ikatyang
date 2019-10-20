@@ -514,8 +514,8 @@ graceful-fs@^4.1.2:
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.2.tgz#6f0952605d0140c1cfdb138ed005775b92d67b02"
 
 handlebars@^4.0.2:
-  version "4.4.3"
-  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.4.3.tgz#180bae52c1d0e9ec0c15d7e82a4362d662762f6e"
+  version "4.4.4"
+  resolved "https://registry.yarnpkg.com/handlebars/-/handlebars-4.4.4.tgz#d6cbdda5fb0706e6c1b43356afea30016106c60f"
   dependencies:
     neo-async "^2.6.0"
     optimist "^0.6.1"
